@@ -4,6 +4,6 @@ class Person
   end
 
   def name
-    @name = naem
+    @name = name
   end
 end
